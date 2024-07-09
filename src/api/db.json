@@ -1,0 +1,330 @@
+{
+  "stores": [
+    {
+      "id": 1,
+      "name": "Loja 1",
+      "rating": 4.9,
+      "type": "Veterinária",
+      "distance": 3.4,
+      "img": "https://i.imgur.com/a4qkIuU.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Loja 2",
+      "rating": 4.7,
+      "type": "Petshop",
+      "distance": 1.2,
+      "img": "https://i.imgur.com/e2dmj7W.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Loja 3",
+      "rating": 4.5,
+      "type": "Adestramento",
+      "distance": 2.1,
+      "img": "https://i.imgur.com/L3ilOYs.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Loja 4",
+      "rating": 4.7,
+      "type": "Veterinária",
+      "distance": 0.8,
+      "img": "https://i.imgur.com/6SqZkjZ.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Loja 5",
+      "rating": 4.1,
+      "type": "Veterinária",
+      "distance": 1.2,
+      "img": "https://i.imgur.com/xj5xnVO.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Loja 6",
+      "rating": 4.4,
+      "type": "Petshop",
+      "distance": 3.3,
+      "img": "https://i.imgur.com/Lk9et9o.jpeg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Veterinária",
+      "img": "https://i.imgur.com/RxbNwjq.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Adestramento",
+      "img": "https://i.imgur.com/hZ2ARce.jpeg"
+    },
+    { "id": 3, "name": "Banho", "img": "https://i.imgur.com/1dXPR0o.jpeg" },
+    { "id": 4, "name": "Petshop", "img": "https://i.imgur.com/kRLSzag.jpeg" },
+    { "id": 5, "name": "Tosa", "img": "https://i.imgur.com/I4DpDij.jpeg" },
+    { "id": 6, "name": "Hotel", "img": "https://i.imgur.com/007ycOm.png" }
+  ],
+  "lastServices": [
+    {
+      "id": 1,
+      "name": "Loja 1",
+      "img": "https://i.imgur.com/RxbNwjq.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Loja 2",
+      "img": "https://i.imgur.com/Lk9et9o.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Loja 3",
+      "img": "https://i.imgur.com/a4qkIuU.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Loja 4",
+      "img": "https://i.imgur.com/6SqZkjZ.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Loja 5",
+      "img": "https://i.imgur.com/xj5xnVO.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Loja 6",
+      "img": "https://i.imgur.com/L3ilOYs.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Loja 7",
+      "img": "https://i.imgur.com/e2dmj7W.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Loja 8",
+      "img": "https://i.imgur.com/a4qkIuU.jpeg"
+    }
+  ],
+  "blog": {
+    "categories": [
+      {
+        "id": 1,
+        "name": "Veterinária",
+        "img": "https://i.imgur.com/RxbNwjq.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Adestramento",
+        "img": "https://i.imgur.com/hZ2ARce.jpeg"
+      },
+      { "id": 3, "name": "Banho", "img": "https://i.imgur.com/1dXPR0o.jpeg" },
+      { "id": 4, "name": "Petshop", "img": "https://i.imgur.com/kRLSzag.jpeg" },
+      { "id": 5, "name": "Tosa", "img": "https://i.imgur.com/I4DpDij.jpeg" },
+      { "id": 6, "name": "Hotel", "img": "https://i.imgur.com/007ycOm.png" }
+    ],
+    "posts": [
+      {
+        "id": 1,
+        "name": "Como treinar seu cachorro",
+        "img": "https://i.imgur.com/SqWO9Ry.jpeg",
+        "date": "16/06/2024"
+      },
+      {
+        "id": 2,
+        "name": "Meu primeiro pet",
+        "img": "https://i.imgur.com/ALDTuOc.jpeg",
+        "date": "16/06/2024"
+      },
+      {
+        "id": 3,
+        "name": "Raças mais amigaveis",
+        "img": "https://i.imgur.com/8YLjBQH.png",
+        "date": "16/06/2024"
+      },
+      {
+        "id": 4,
+        "name": "Como treinar seu cachorro",
+        "img": "https://i.imgur.com/SqWO9Ry.jpeg",
+        "date": "16/06/2024"
+      },
+      {
+        "id": 5,
+        "name": "Meu primeiro pet",
+        "img": "https://i.imgur.com/ALDTuOc.jpeg",
+        "date": "16/06/2024"
+      },
+      {
+        "id": 6,
+        "name": "Raças mais amigaveis",
+        "img": "https://i.imgur.com/8YLjBQH.png",
+        "date": "16/06/2024"
+      }
+    ]
+  },
+  "adoption": [
+    {
+      "id": 1,
+      "name": "Dog 1",
+      "type": "dog",
+      "img": "https://i.imgur.com/H01vXs0.jpeg",
+      "distance": 1.2
+    },
+    {
+      "id": 2,
+      "name": "Cat 1",
+      "type": "cat",
+      "img": "https://i.imgur.com/Y9pPqE0.jpeg",
+      "distance": 2.8
+    },
+    {
+      "id": 3,
+      "name": "Dog 3",
+      "type": "dog",
+      "img": "https://i.imgur.com/vSw9CLO.jpeg",
+      "distance": 0.9
+    },
+    {
+      "id": 4,
+      "name": "Cat 2",
+      "type": "dog",
+      "img": "https://i.imgur.com/PFh13c3.jpeg",
+      "distance": 1.5
+    },
+    {
+      "id": 5,
+      "name": "Cat 3",
+      "type": "dog",
+      "img": "https://i.imgur.com/LSZskbZ.jpeg",
+      "distance": 3.5
+    },
+    {
+      "id": 6,
+      "name": "Dog 4",
+      "type": "dog",
+      "img": "https://i.imgur.com/eJwRsfa.jpeg",
+      "distance": 8.5
+    }
+  ],
+  "shop": {
+    "mainProducts": [
+      {
+        "id": 1,
+        "name": "Produto 1",
+        "img": "https://i.imgur.com/xbYbznM.jpeg",
+        "price": 10.9
+      },
+      {
+        "id": 2,
+        "name": "Produto 2",
+        "img": "https://i.imgur.com/WbQ0u3m.png",
+        "price": 50.9
+      },
+      {
+        "id": 3,
+        "name": "Produto 3",
+        "img": "https://i.imgur.com/fTMoOXz.jpeg",
+        "price": 29.99
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "name": "Produto 1",
+        "img": "https://i.imgur.com/kZfcEp5.jpeg",
+        "price": 10.9
+      },
+      {
+        "id": 2,
+        "name": "Produto 2",
+        "img": "https://i.imgur.com/RiRQyc3.jpeg",
+        "price": 50.9
+      },
+      {
+        "id": 3,
+        "name": "Produto 3",
+        "img": "https://i.imgur.com/TyFycFb.jpeg",
+        "price": 29.99
+      },
+      {
+        "id": 4,
+        "name": "Produto 4",
+        "img": "https://i.imgur.com/VcEeFBj.png",
+        "price": 10.99
+      },
+      {
+        "id": 5,
+        "name": "Produto 5",
+        "img": "https://i.imgur.com/gl4u31f.png",
+        "price": 10.9
+      },
+      {
+        "id": 6,
+        "name": "Produto 6",
+        "img": "https://i.imgur.com/FeQVevf.jpeg",
+        "price": 50.9
+      },
+      {
+        "id": 7,
+        "name": "Produto 7",
+        "img": "https://i.imgur.com/o6nH2jb.jpeg",
+        "price": 29.99
+      },
+      {
+        "id": 8,
+        "name": "Produto 8",
+        "img": "https://i.imgur.com/xbYbznM.jpeg",
+        "price": 10.99
+      },
+      {
+        "id": 9,
+        "name": "Produto 9",
+        "price": 10.9,
+        "img": "https://i.imgur.com/WbQ0u3m.png"
+      },
+      {
+        "id": 10,
+        "name": "Produto 10",
+        "price": 50.9,
+        "img": "https://i.imgur.com/fTMoOXz.jpeg"
+      },
+      {
+        "id": 11,
+        "name": "Produto 11",
+        "price": 29.99,
+        "img": "https://i.imgur.com/kZfcEp5.jpeg"
+      },
+      {
+        "id": 12,
+        "name": "Produto 12",
+        "price": 10.99,
+        "img": "https://i.imgur.com/RiRQyc3.jpeg"
+      },
+      {
+        "id": 13,
+        "name": "Produto 13",
+        "price": 10.99,
+        "img": "https://i.imgur.com/TyFycFb.jpeg"
+      },
+      {
+        "id": 14,
+        "name": "Produto 14",
+        "price": 10.9,
+        "img": "https://i.imgur.com/VcEeFBj.png"
+      },
+      {
+        "id": 15,
+        "name": "Produto 15",
+        "price": 50.9,
+        "img": "https://i.imgur.com/FeQVevf.jpeg"
+      },
+      {
+        "id": 16,
+        "name": "Produto 16",
+        "price": 29.99,
+        "img": "https://i.imgur.com/o6nH2jb.jpeg"
+      }
+    ]
+  }
+}
